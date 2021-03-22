@@ -1,3 +1,5 @@
 esto es un documento de texto plano, creado
 para llenar el vacio.
-ahora lo estoy modificando un poquito.
+ahora lo estoy modificando un poquito, pero tambien quiero
+añadirle unas lineas mas opara probar los ultimos comandos que vi.
+solcito.
