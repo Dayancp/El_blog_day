@@ -3,4 +3,4 @@ para llenar el vacio.
 ahora lo estoy modificando un poquito, pero tambien quiero
 añadirle unas lineas mas opara probar los ultimos comandos que vi.
 solcito.
-anita pltzi la mejor.
+anita pltzi la mejor, pero ya la despidieron, lastima, ahora anita esta colaborando al repositorio principal de dayroot mediante pull request.
